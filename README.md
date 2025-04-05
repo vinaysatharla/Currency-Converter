@@ -36,7 +36,7 @@ A real-time currency converter built with HTML, CSS, and JavaScript. This applic
 4. Click the convert button to see the exchange rate.
 
 ## Live
-Check out for live demo [Here](https://github.com/vinaysatharla/Currency-Converter#).
+Check out for live demo [Here](https://vinaysatharla.github.io/Currency-Converter/).
 
 
 ## Acknowledgements
