@@ -35,6 +35,8 @@ A real-time currency converter built with HTML, CSS, and JavaScript. This applic
 3. Select 'to' country: `India (INR)`
 4. Click the convert button to see the exchange rate.
 
+## Live
+Check out for live demo [Here](https://github.com/vinaysatharla/Currency-Converter#).
 
 
 ## Acknowledgements
